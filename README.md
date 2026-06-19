@@ -21,15 +21,15 @@ Vision    : Turning Data Into Impact
 ## 🌱 CURRENT FOCUS
 
 ```text
-▰▰▰▰▰▰▱▱▱▱  Data Science
+▰▰▰▰▰▰▰▱▱▱  Data Science
 
-▰▰▰▰▰▰▰▱▱▱  Python & Development
+▰▰▰▰▰▰▰▰▱▱  Python & Development
 
-▰▰▰▰▰▱▱▱▱▱  Machine Learning
+▰▰▰▰▰▰▱▱▱▱  Machine Learning
 
-▰▰▰▰▱▱▱▱▱▱  System Design
+▰▰▰▰▰▱▱▱▱▱  System Design
 
-▰▰▰▱▱▱▱▱▱▱  Leadership
+▰▰▰▰▱▱▱▱▱▱  Leadership
 ```
 ## 🚀 CURRENTLY BUILDING
 
@@ -58,44 +58,35 @@ Goal:
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
 
 ### Data & AI
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-
----
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![MachineLearning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 📊 GITHUB STATS
 
-![](https://github-readme-stats.vercel.app/api?username=ShantanuPatil11&show_icons=true&theme=github_dark)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShantanuPatil11&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuPatil11&layout=compact&theme=github_dark" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShantanuPatil11&theme=github-dark-blue)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuPatil11&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuPatil11&theme=github-dark-blue" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShantanuPatil11&label=Profile+Views&color=0e75b6&style=flat" />
