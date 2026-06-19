@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 WHO AM I?
+## 🎯 WHO AM I ?
 
 ```yaml
 Name      : Shantanu Patil
@@ -108,6 +108,6 @@ scalable pipelines, and products that make a measurable difference.
 
 <div align="center">
 
-### Turning Data Into Impact
+### Turning Data Into Impact !!
 
 </div>
