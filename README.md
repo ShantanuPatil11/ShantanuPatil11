@@ -12,26 +12,52 @@
 
 ```yaml
 Name      : Shantanu Patil
-Role      : AI & Data Science Student
+Degree    : Computer Engineering with AI & Honours
 Domain    : Data Science, AI, Software Development
 Focus     : End-to-End Systems & Pipelines
 Mindset   : Learn Deeply. Build Properly.
 Vision    : Turning Data Into Impact
 ```
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShantanuPatil11&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 ---
 
-## 🚀 CURRENT MISSION
+## 🌱 CURRENT FOCUS
 
-- Master Data Science
-- Build Real World Projects
-- Learn System Design
-- Create Scalable Pipelines
-- Strengthen Leadership Skills
-- Develop AI Products
+```text
+▰▰▰▰▰▰▱▱▱▱  Data Science
 
+▰▰▰▰▰▰▰▱▱▱  Python & Development
+
+▰▰▰▰▰▱▱▱▱▱  Machine Learning
+
+▰▰▰▰▱▱▱▱▱▱  System Design
+
+▰▰▰▱▱▱▱▱▱▱  Leadership
+```
+## 🚀 CURRENTLY BUILDING
+
+```yaml
+Learning:
+  - Machine Learning
+  - Data Engineering
+  - System Design
+
+Building:
+  - Data Science Projects
+  - AI Applications
+  - End-to-End Pipelines
+
+Exploring:
+  - Leadership
+  - Product Thinking
+  - Scalable Architectures
+
+Goal:
+  Build systems that create real-world impact.
+```
 ---
-
 ## ⚙️ TECH STACK
 
 ### Languages
@@ -78,26 +104,15 @@ Vision    : Turning Data Into Impact
 
 ---
 
-## 🧠 PHILOSOPHY
+## 🎯 VISION & PHILOSOPHY
 
-> Build systems, not shortcuts.
->
-> Learn fundamentals, not trends.
->
-> Create impact, not noise.
+> Turning Data Into Impact
 
----
+I believe technology creates value only when it solves
+real problems for real people.
 
-## 🎬 CURRENT FOCUS
-
-```text
-Data Science
-Software Engineering
-Pipeline Development
-Artificial Intelligence
-Leadership
-System Design
-```
+My goal is to build intelligent systems,
+scalable pipelines, and products that make a measurable difference.
 
 ---
 
