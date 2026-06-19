@@ -8,17 +8,17 @@
 
 ---
 
-## 🎯 WHO AM I ?
+## 🪪 WHO AM I ?
 
 ```yaml
 Name      : Shantanu Patil
-Degree    : Computer Engineering with AI & Honours
+Degree    : Computer Engineering with AI & Honours (SPPU)
 Domain    : Data Science, AI, Software Development
 Focus     : End-to-End Systems & Pipelines
-Mindset   : Learn Deeply. Build Properly.
-Vision    : Turning Data Into Impact
+Roles     : Tech Mahindra Intern, Skymind Pvt. Ltd.
+Mail      : shantanupatil1155@gmail.com
 ```
-## 🌱 CURRENT FOCUS
+## 🎯 CURRENT FOCUS
 
 ```text
 ▰▰▰▰▰▰▰▱▱▱  Data Science
@@ -33,25 +33,14 @@ Vision    : Turning Data Into Impact
 ```
 ## 🚀 CURRENTLY BUILDING
 
-```yaml
-Learning:
-  - Machine Learning
-  - Data Engineering
-  - System Design
 
-Building:
-  - Data Science Projects
-  - AI Applications
-  - End-to-End Pipelines
 
-Exploring:
-  - Leadership
-  - Product Thinking
-  - Scalable Architectures
+| 🧩 Learning      | 🛠️ Building           | 🔭 Exploring           |
+|------------------|-----------------------|------------------------|
+| Machine Learning | Data Science Projects | Leadership             |
+| Data Engineering | AI Applications       | Product Thinking       |
+| System Design    | End-to-End Pipelines  | Scalable Architectures |
 
-Goal:
-  Build systems that create real-world impact.
-```
 ---
 ## ⚙️ TECH STACK
 
@@ -94,9 +83,9 @@ Goal:
 
 ---
 
-## 🎯 VISION & PHILOSOPHY
+## 💡 VISION & PHILOSOPHY
 
-> Turning Data Into Impact
+> " AI shapes our worldview, but self-knowledge gives it purpose."
 
 I believe technology creates value only when it solves
 real problems for real people.
@@ -108,6 +97,6 @@ scalable pipelines, and products that make a measurable difference.
 
 <div align="center">
 
-### Turning Data Into Impact !!
+### 🌱 Turning Data Into Impact !!
 
 </div>
