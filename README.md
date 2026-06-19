@@ -18,11 +18,6 @@ Focus     : End-to-End Systems & Pipelines
 Mindset   : Learn Deeply. Build Properly.
 Vision    : Turning Data Into Impact
 ```
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShantanuPatil11&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
----
-
 ## 🌱 CURRENT FOCUS
 
 ```text
@@ -101,6 +96,10 @@ Goal:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShantanuPatil11&theme=github-dark-blue)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuPatil11&layout=compact&theme=github_dark)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShantanuPatil11&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
