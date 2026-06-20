@@ -16,7 +16,7 @@ Degree    : Computer Engineering with AI & ML Honors (SPPU)
 Domain    : Data Science, AI, Software Development, API & Automation  
 Focus     : Machine Learning, End-to-End Systems & Pipelines
 Roles     : Tech Mahindra Intern, Skymind Pvt. Ltd. Intern
-Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanu-patil-ask24
+Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanupatil24
 ```
 ## 🎯 CURRENT FOCUS
 
