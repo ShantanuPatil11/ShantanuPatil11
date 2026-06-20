@@ -2,7 +2,7 @@
 
 # ⚡ SHANTANU PATIL ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Developer;Pipeline+Architect;Building+Systems+That+Scale;Turning+Data+Into+Impact;Future+Technology+Leader" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Software+Developer;Automation+&+API+Creation;Pipeline+Architect;Building+Systems+That+Scale;Turning+Data+Into+Impact;Future+Technology+Leader" />
 
 </div>
 
