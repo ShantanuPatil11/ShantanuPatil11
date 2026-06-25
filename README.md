@@ -27,9 +27,9 @@ Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanupatil24
 
 ▰▰▰▰▰▰▱▱▱▱  Machine Learning
 
-▰▰▰▰▰▱▱▱▱▱  System Design
+▰▰▰▰▰▰▰▱▱▱  System Design
 
-▰▰▰▰▱▱▱▱▱▱  Leadership
+▰▰▰▰▰▱▱▱▱▱  Leadership
 ```
 ## 🚀 CURRENTLY BUILDING
 
