@@ -23,7 +23,7 @@ Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanupatil24
 ```text
 ▰▰▰▰▰▰▰▱▱▱  Data Science
 
-▰▰▰▰▰▰▰▰▱▱  Python & Development
+▰▰▰▰▰▰▰▰▰▱  Python & Development
 
 ▰▰▰▰▰▰▱▱▱▱  Machine Learning
 
