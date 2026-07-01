@@ -21,15 +21,11 @@ Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanupatil24
 ## 🎯 CURRENT FOCUS
 
 ```text
-▰▰▰▰▰▰▰▱▱▱  Data Science
+▰▰▰▰▰▰▰▰▱▱  Data Science            ▰▰▰▰▰▰▰▰▰▱  Python & Development      ▰▰▰▰▰▰▱▱▱▱  System Design
 
-▰▰▰▰▰▰▰▰▰▱  Python & Development
 
-▰▰▰▰▰▰▱▱▱▱  Machine Learning
+▰▰▰▰▰▰▱▱▱▱  Machine Learning        ▰▰▰▰▰▱▱▱▱▱  Leadership                ▰▰▰▱▱▱▱▱▱▱  Work Experience
 
-▰▰▰▰▰▰▰▱▱▱  System Design
-
-▰▰▰▰▰▱▱▱▱▱  Leadership
 ```
 ## 🚀 CURRENTLY BUILDING
 
@@ -85,10 +81,10 @@ Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanupatil24
 
 ## 💡 VISION & PHILOSOPHY
 
-> " AI shapes our worldview, but self-knowledge gives it purpose."
+> " AI shapes our worldview, but SELF-KNOWLEDGE gives it PURPOSE."
 
 I believe technology creates value only when it solves
-real problems for real people.
+real problems for people.
 
 My goal is to build intelligent systems,
 scalable pipelines, and products that make a measurable difference.
