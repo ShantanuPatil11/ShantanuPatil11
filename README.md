@@ -38,6 +38,7 @@ Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanupatil24
 | System Design    | End-to-End Pipelines  | Scalable Architectures |
 
 ---
+
 ## ⚙️ TECH STACK
 
 ### Languages
@@ -47,34 +48,34 @@ Contact   : shantanupatil1155@gmail.com OR linkdin.com/in/shantanupatil24
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data & AI
+### Frameworks & AI
 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Gemini%20API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![MachineLearning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
 ---
 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShantanuPatil11&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuPatil11&layout=compact&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShantanuPatil11&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShantanuPatil11&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShantanuPatil11&theme=github-dark-blue" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShantanuPatil11&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://streak-stats.demolab.com?user=ShantanuPatil11&theme=github-dark-blue" />
 </p>
 
 ---
